@@ -1,0 +1,30 @@
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form2.resources
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form4.resources
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form6.resources
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form7.resources
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form8.resources
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+G:\Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form5.resources
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form2.resources
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form4.resources
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form5.resources
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form6.resources
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form7.resources
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form8.resources
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+G:\ASP.Net Project\.Net Projects\LibraryManagement-master\LibraryManagement-master\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
